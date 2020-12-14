@@ -13,4 +13,5 @@ Numer albumu: 72547
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+1. W jaki sposób można rozbudować funkcjonalność programu w przypadku gdy liczba naciśnięć przycisku przekroczy określoną ilość?
+ODP: Po przekroczeniu określonej liczby nacisnięć program powinien się resetować i zaczynać liczenie od 0.
